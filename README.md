@@ -3,12 +3,12 @@ Hack html-1
 Alumno Adonis Daller
 
 
-|Hacks | Details | 
-|----------|---------|
-| H-1      | Position or Free Mode |
-
-creacion del hack 1 siguiendo las normativas establecisa 
-
+|Hacks H-1 | 
+|--------------------------------------------------------------------------------------|
+| Details
+| Crear el hack html mediante el uso de position relative / absolute ó modalidad libre |
+|    - se prohibe el uso de float |
+|    - se prohibe el uso de flex |
 
 PULL_REQUEST_TEMPLATE
 # Tecnología
